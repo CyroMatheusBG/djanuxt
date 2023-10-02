@@ -1,0 +1,6 @@
+__pycache__
+appdata
+node_modules
+.idea/
+.env_files/
+.dockerignore
